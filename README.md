@@ -1,4 +1,4 @@
 # corfu-web-guide
 a responsive menu with html and css bootstrap
-![Στιγμιότυπο οθόνης (124)](https://github.com/billmazio/corfu-web-guide/assets/116730698/ea842139-fc3b-4598-8fe6-6affcbb46fb7)
-![Στιγμιότυπο οθόνης (123)](https://github.com/billmazio/corfu-web-guide/assets/116730698/3bc9267a-6613-4910-a7f0-cfd957abd24d)
+![Στιγμιότυπο οθόνης (125)](https://github.com/billmazio/corfu-web-guide/assets/116730698/048fe1c7-6d23-4bd9-b192-3a9bb85ca93e)
+![Στιγμιότυπο οθόνης (124)](https://github.com/billmazio/corfu-web-guide/assets/116730698/e5098eb8-bed2-4248-b553-3853f3e09c78)
