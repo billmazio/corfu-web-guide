@@ -77,7 +77,7 @@ footer {
     font-size: 1.5re;
     letter-spacing: 5px;
 }
- */
+ 
 
  /* Styling for index
 .bg-dark {
@@ -111,8 +111,10 @@ footer {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* min-height: 50%; */
+    min-height: 50%;
   }
+   */
+  
   
   .main {
     padding-top: 80px;
